@@ -1,0 +1,25 @@
+{
+  "name": "@dddsuzuki/dex",
+  "description": "State management",
+  "version": "0.1.0",
+  "author": "Daisuke Suzuki",
+  "license": "MIT",
+  "homepage": "https://github.com/dddsuzuki/dex",
+  "bugs": {
+    "url": "https://github.com/dddsuzuki/dex/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dddsuzuki/dex.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
